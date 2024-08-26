@@ -1,6 +1,6 @@
 ﻿$FolderPath = "S:\Singstar\"
 
-$data = Import-Csv -Path $(Join-Path $Folderpath "Singstar List.csv") -Delimiter ","
+$data = Import-Csv -Path $(Join-Path $Folderpath "Singstar.csv") -Delimiter ","
 
 $entryTemplate = @'
 <Track>

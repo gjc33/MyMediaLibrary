@@ -1,0 +1,107 @@
+a, a:hover, a:active, a:visited { color: white; }
+
+:root {
+	--page-height: 100vh;
+	--page-width: 100vw;
+	--page-margin: 0;
+	--page-padding: 0;
+	--page-font-family: Calibri, "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+	--page-text-color: #ffffff;
+	--page-text-color-hover: rgba(255,255,255,1.0);
+	--page-background-color: #1a1e23;
+	--tab-display: grid;
+	--tab-background-color: rgba(255, 255, 255, 0.03);
+	--display-none: none;
+	--box-sizing: border-box;
+}
+*:before,
+*:after,
+*,
+::after,
+::before {box-sizing: border-box;}
+html,
+body {
+	display: var(--tab-display);
+	justify-content: center;
+	margin: var(--page-margin);
+	padding: var(--page-padding);
+	font-family: var(--page-font-family);
+	color: var(--page-text-color);
+	background-color: var(--page-background-color);
+	grid-template-rows: min-content;
+}
+p {padding: 0 1em;}
+p span {color: var(--page-text-color-hover);}
+
+tab-container {
+	display: var(--tab-display);
+	margin-top: 0px;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: auto;
+	border: solid rgba(255,255,255,0.03);
+	border-radius: .5em;
+}
+/*
+TAB CONTROLS
+Hide radios */
+input {display: none;}
+input:checked + label {
+	color: var(--page-text-color-hover);
+	background-color: rgba(255,255,255,0.0);
+	transition: all 250ms;
+}
+label {
+	cursor: pointer;
+	transition: color 250ms;
+	padding: 1em;
+	border-right: solid 2px var(--page-background-color);
+	background-color: var(--tab-background-color);
+	text-align: center;
+	transition: all 250ms;
+	height:50px;
+}
+label:last-of-type {border: none; }
+label:hover {
+	color: var(--page-text-color-hover);
+	background-color: rgba(255,255,255,0.05);
+}
+
+tab-content {
+	text-align: left;
+	display: var(--tab-display);
+	grid-column: 1 / -1;
+}
+/*
+Why doesn't this work!? 
+input ~ tab-content {display: none;}
+input:checked ~ tab-content {display: var(--tab-display);}*/
+
+input#tabToggle01:checked ~ tab-content:not(:nth-of-type(1)),
+input#tabToggle02:checked ~ tab-content:not(:nth-of-type(2)),
+input#tabToggle03:checked ~ tab-content:not(:nth-of-type(3)),
+input#tabToggle04:checked ~ tab-content:not(:nth-of-type(4)),
+input#tabToggle05:checked ~ tab-content:not(:nth-of-type(5)),
+input#tabToggle06:checked ~ tab-content:not(:nth-of-type(6)),
+input#tabToggle07:checked ~ tab-content:not(:nth-of-type(7)),
+input#tabToggle08:checked ~ tab-content:not(:nth-of-type(8)),
+input#tabToggle09:checked ~ tab-content:not(:nth-of-type(9)),
+input#tabToggle10:checked ~ tab-content:not(:nth-of-type(10)),
+input#tabToggle11:checked ~ tab-content:not(:nth-of-type(11)),
+input#tabToggle12:checked ~ tab-content:not(:nth-of-type(12)),
+input#tabToggle13:checked ~ tab-content:not(:nth-of-type(13)),
+input#tabToggle14:checked ~ tab-content:not(:nth-of-type(14)),
+input#tabToggle15:checked ~ tab-content:not(:nth-of-type(15)),
+input#tabToggle16:checked ~ tab-content:not(:nth-of-type(16)),
+input#tabToggle17:checked ~ tab-content:not(:nth-of-type(17)),
+input#tabToggle18:checked ~ tab-content:not(:nth-of-type(18)),
+input#tabToggle19:checked ~ tab-content:not(:nth-of-type(19)),
+input#tabToggle20:checked ~ tab-content:not(:nth-of-type(20)),
+input#tabToggle21:checked ~ tab-content:not(:nth-of-type(21)),
+input#tabToggle22:checked ~ tab-content:not(:nth-of-type(22)),
+input#tabToggle23:checked ~ tab-content:not(:nth-of-type(23)),
+input#tabToggle24:checked ~ tab-content:not(:nth-of-type(24)),
+input#tabToggle25:checked ~ tab-content:not(:nth-of-type(25)),
+input#tabToggle26:checked ~ tab-content:not(:nth-of-type(26)),
+input#tabToggle27:checked ~ tab-content:not(:nth-of-type(27))
+
+{display: none;}

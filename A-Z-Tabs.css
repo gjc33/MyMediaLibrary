@@ -1,8 +1,14 @@
 a, a:hover, a:active, a:visited { color: white; }
+small, sub, sup { font-size: .83em }
+sub             { vertical-align: sub }
+sup             {
+	vertical-align: super;
+	color: cyan;
+}
 
 :root {
 	--page-height: 100vh;
-	--page-width: 100vw;
+	--page-width: 800vw;
 	--page-margin: 0;
 	--page-padding: 0;
 	--page-font-family: Calibri, "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
@@ -21,8 +27,9 @@ a, a:hover, a:active, a:visited { color: white; }
 ::before {box-sizing: border-box;}
 html,
 body {
+	
 	display: var(--tab-display);
-	justify-content: center;
+	justify-content: left;
 	margin: var(--page-margin);
 	padding: var(--page-padding);
 	font-family: var(--page-font-family);
@@ -30,16 +37,20 @@ body {
 	background-color: var(--page-background-color);
 	grid-template-rows: min-content;
 }
-p {padding: 0 1em;}
+p {
+		padding-left: 10em;
+		padding: 0 1em;}
 p span {color: var(--page-text-color-hover);}
 
 tab-container {
 	display: var(--tab-display);
 	margin-top: 0px;
+	margin-left: 0px; 
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-rows: auto;
 	border: solid rgba(255,255,255,0.03);
 	border-radius: .5em;
+	
 }
 /*
 TAB CONTROLS
@@ -47,7 +58,7 @@ Hide radios */
 input {display: none;}
 input:checked + label {
 	color: var(--page-text-color-hover);
-	background-color: rgba(255,255,255,0.0);
+	background-color: red;
 	transition: all 250ms;
 }
 label {
@@ -58,7 +69,10 @@ label {
 	background-color: var(--tab-background-color);
 	text-align: center;
 	transition: all 250ms;
-	height:50px;
+	height:1fr;
+	line-height: 10px;
+	font-size: 28px;
+	width: 3vw;
 }
 label:last-of-type {border: none; }
 label:hover {
@@ -68,8 +82,10 @@ label:hover {
 
 tab-content {
 	text-align: left;
+	margin-left: 50px;
 	display: var(--tab-display);
 	grid-column: 1 / -1;
+	font-size: 18px;
 }
 /*
 Why doesn't this work!? 
@@ -103,5 +119,4 @@ input#tabToggle24:checked ~ tab-content:not(:nth-of-type(24)),
 input#tabToggle25:checked ~ tab-content:not(:nth-of-type(25)),
 input#tabToggle26:checked ~ tab-content:not(:nth-of-type(26)),
 input#tabToggle27:checked ~ tab-content:not(:nth-of-type(27))
-
 {display: none;}

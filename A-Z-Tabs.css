@@ -1,4 +1,22 @@
+img {width:120px;   height:165px;}
+.table {heigh:auto;   width:auto;   display:inline-table;}
+.row   {height:220px;   display:block;   border-spacing:20px;   padding:0px;}
+.cell  {height:220px;   width:165px;   float:left;   display:inline-block;   border:1px solid black;   border-spacing:20px;   border-radius:20px;   text-align:center;   padding: 10px;}
+
 a, a:hover, a:active, a:visited { color: white; }
+a.button {
+    padding: 1px 6px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    color: Black;
+    background-color: teal;
+    text-decoration: none;
+}
+
+h1  {font-size:48px;   background-color:teal;}
+h2  {font-size:48px;   background-color:yellow;	vertical-align:center;}
+h3  {vertical-align:center;}
+
 small, sub, sup { font-size: .83em }
 sub             { vertical-align: sub }
 sup             {
@@ -50,6 +68,7 @@ tab-container {
 	grid-template-rows: auto;
 	border: solid rgba(255,255,255,0.03);
 	border-radius: .5em;
+	width: 100vw;
 	
 }
 /*
@@ -64,14 +83,14 @@ input:checked + label {
 label {
 	cursor: pointer;
 	transition: color 250ms;
-	padding: 1em;
+	padding: 0.5em;
 	border-right: solid 2px var(--page-background-color);
 	background-color: var(--tab-background-color);
 	text-align: center;
 	transition: all 250ms;
 	height:1fr;
-	line-height: 10px;
-	font-size: 28px;
+	line-height: 1fr;
+	font-size: 24px;
 	width: 3vw;
 }
 label:last-of-type {border: none; }
@@ -82,7 +101,7 @@ label:hover {
 
 tab-content {
 	text-align: left;
-	margin-left: 50px;
+	margin-left: 3vw;
 	display: var(--tab-display);
 	grid-column: 1 / -1;
 	font-size: 18px;

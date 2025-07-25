@@ -21,7 +21,8 @@ fetch('WebDB.json')
 				UniqueCat.push(Cat);
 		}
 	}
-	UniqueCat.shift();
+	UniqueCat.shift()
+	UniqueCat.sort();
 	//document.getElementById("info").innerHTML = `[GJC]${UniqueCat.toString()}`;
 
 	let TabDataHere = document.querySelector(`#Tabs`);

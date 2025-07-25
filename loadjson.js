@@ -29,7 +29,7 @@ fetch('WebDB.json')
 	let t="";
 	let ckd = "checked";
 
-	if(page != "A.html"){
+	if(page != "A.html" && page !='' && page !="index.html"){
 		let ti = 0;
 		for(Cat of UniqueCat){
 			ti++;

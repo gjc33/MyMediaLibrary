@@ -9,6 +9,8 @@ fetch('WebDB.json')
 	let  LibraryTotal = document.querySelector("#LibraryTotal");
 	let allFilms = data.Films;
 
+	document.getElementById("updated").innerHTML = `Updated: ${allFilms[0].Updated}`;
+
 	LibraryTotal.innerHTML = `${Object.keys(allFilms).length} Titles`;
 
 	let Categories = allFilms.map(Cats => Cats.Category);
@@ -24,9 +26,6 @@ fetch('WebDB.json')
 	UniqueCat.shift()
 	UniqueCat.sort();
 	//document.getElementById("info").innerHTML = `[GJC]${UniqueCat.toString()}`;
-
-	const d = new Date();
-	document.getElementById("updated").innerHTML = d;
 
 	let TabDataHere = document.querySelector(`#Tabs`);
 	let t="";

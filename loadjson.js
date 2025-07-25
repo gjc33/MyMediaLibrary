@@ -25,6 +25,9 @@ fetch('WebDB.json')
 	UniqueCat.sort();
 	//document.getElementById("info").innerHTML = `[GJC]${UniqueCat.toString()}`;
 
+	const d = new Date();
+	document.getElementById("updated").innerHTML = d;
+
 	let TabDataHere = document.querySelector(`#Tabs`);
 	let t="";
 	let ckd = "checked";

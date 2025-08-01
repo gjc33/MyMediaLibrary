@@ -25,7 +25,7 @@ fetch('WebDB.json')
 	}
 	UniqueCat.shift()
 	UniqueCat.sort();
-	//document.getElementById("info").innerHTML = `[GJC]${UniqueCat.toString()}`;
+	document.getElementById("info").innerHTML = `[${page}]`;
 
 	let TabDataHere = document.querySelector(`#Tabs`);
 	let t="";

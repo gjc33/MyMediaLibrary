@@ -1,7 +1,7 @@
 var path = window.location.pathname;
 var page = path.split("/").pop();
 
-fetch('AZDB.json')
+fetch('AZlist.json')
 .then(function(response) {
 	return response.json();
 })

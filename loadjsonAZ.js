@@ -80,7 +80,7 @@ fetch('AZlist.json')
 	
 	TabDataHere.innerHTML = t;	
 	
-	})
-	.catch(function(error) {
+})
+.catch(function(error) {
 		document.getElementById("titles").innerHTML = error;
 })

@@ -1,7 +1,7 @@
 var path = window.location.pathname;
 var page = path.split("/").pop();
 
-fetch('WebDB.json')
+fetch('AZDB.json')
 .then(function(response) {
 	return response.json();
 })
@@ -13,6 +13,7 @@ fetch('WebDB.json')
 
 	LibraryTotal.innerHTML = `${Object.keys(allFilms).length} Titles`;
 
+/*
 	let Categories = allFilms.map(Cats => Cats.Category);
 	
 	var lookup = {};
@@ -30,6 +31,8 @@ fetch('WebDB.json')
 	let TabDataHere = document.querySelector(`#Tabs`);
 	let t="";
 	let ckd = "checked";
+
+
 
 	if(page != "A.html" && page !='' && page !="index.html"){
 		let ti = 0;
@@ -60,6 +63,7 @@ fetch('WebDB.json')
 		}
 	}
 	else {
+*/
 		const Alphabet = ["#ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
 
 		for(a=0; a < (Alphabet[0].length); a++){
@@ -89,7 +93,7 @@ fetch('WebDB.json')
 				for(
 					af of AlphaFilms
 					){
-					t+= `${af.Title}&nbsp;<sup>[${af.Category}]</sup></br>`;
+					t+= `${af.Title}&nbsp;<sup>[${af.Categories}]</sup></br>`;
 				}
 				t += '</p></tab-content>';
 			}
@@ -120,7 +124,7 @@ fetch('WebDB.json')
 			}
 			//t += '</tab-content>';
 		}
-	}
+//	}
 	
 	TabDataHere.innerHTML = t;	
 	

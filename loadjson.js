@@ -66,7 +66,7 @@ fetch('WebDB.json')
 			ai = Alphabet[0].charAt(a);
 			if(a > 0){ckd = ""};
 			switch (true){
-				case (a < 10): {
+				case (a < 9): {
 					t += `<input type='radio' id='tabToggle0${a+1}' name='tabs' value='${a + 1}' ${ckd}><label for='tabToggle0${a+1}'>${ai}</label>`;
 					break;
 				}

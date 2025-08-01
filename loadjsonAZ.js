@@ -10,6 +10,7 @@ fetch('AZList.json')
 	let allFilms = data.Films;
 
 	document.getElementById("updated").innerHTML = `Updated: ${allFilms[0].Updated}`;
+	document.getElementById("info").innerHTML = `[${page}]`;
 
 	LibraryTotal.innerHTML = `${Object.keys(allFilms).length} Titles`;
 
@@ -23,7 +24,7 @@ fetch('AZList.json')
 		ai = Alphabet[0].charAt(a);
 		if(a > 0){ckd = ""};
 		switch (true){
-			case (a < 10): {
+			case (a < 9): {
 				t += `<input type='radio' id='tabToggle0${a+1}' name='tabs' value='${a + 1}' ${ckd}><label for='tabToggle0${a+1}'>${ai}</label>`;
 				break;
 			}

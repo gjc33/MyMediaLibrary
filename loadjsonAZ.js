@@ -13,6 +13,9 @@ fetch('AZlist.json')
 
 	LibraryTotal.innerHTML = `${Object.keys(allFilms).length} Titles`;
 
+	let t="";
+	let TabDataHere = document.querySelector(`#Tabs`);
+	
 /*
 	let Categories = allFilms.map(Cats => Cats.Category);
 	
@@ -28,8 +31,8 @@ fetch('AZlist.json')
 	UniqueCat.sort();
 	//document.getElementById("info").innerHTML = `[${page}]`;
 
-	let TabDataHere = document.querySelector(`#Tabs`);
-	let t="";
+
+
 	let ckd = "checked";
 
 

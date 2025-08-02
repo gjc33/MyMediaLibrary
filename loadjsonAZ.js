@@ -10,7 +10,7 @@ fetch('AZList.json')
 	let allFilms = data.Films;
 
 	document.getElementById("updated").innerHTML = `Updated: ${allFilms[0].Updated}`;
-	document.getElementById("info").innerHTML = `[${page}]`;
+	//document.getElementById("info").innerHTML = `[${page}]`;
 
 	LibraryTotal.innerHTML = `${Object.keys(allFilms).length} Titles`;
 
@@ -39,7 +39,7 @@ fetch('AZList.json')
 
 		if(a != 0){
 			let AlphaFilms = allFilms.filter((AlphaData) => {
-				if(AlphaData.Title.startsWith(ai)){return AlphaData}
+				if(AlphaData.Title.toUpperCase().startsWith(ai.toUpperCase())){return AlphaData}
 			})
 
 			var AlphaTitles = Object.keys(AlphaFilms).length;

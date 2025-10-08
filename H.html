@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<link rel="stylesheet" href="./A-Z-Tabs.css">
+	<head>
+	<style>
+			* {padding:0px;}
+
+			.table {heigh:auto;   width:auto;   display:inline-table;}
+			.row   {height:230px;   display:block;   border-spacing:20px;   padding:0px;}
+			.cell  {height:230px;   width:175px;   float:left;   display:inline-block;   border:1px solid gray;   border-spacing:20px;   border-radius:20px;   text-align:center;   padding: 10px;}
+
+			h1  {background-color:teal;}
+			h2  {background-color:yellow;   vertical-align:center;}
+			h3  {vertical-align:center;}
+
+			img {width:120px;   height:165px;}
+
+			label {width: 12vw}
+			tab-content {font-size: 14px}
+		</style>
+	</head>
+	<body>
+	<!--<script src="./loadjsonAZ.js"></script>-->
+			<h1>Gary's Media Library</h1>
+				<h3 id='updated'>Updated: 23 Sep 2025</h3>
+				<p>List Format :</p>
+				<nav>
+					<a class="button" href="./A - Z.html" class="active" style="view-transition-name: nav-1;">A - Z</a>
+					<a class="button" href="./D.html" style="view-transition-name: nav-2;">Desktop</a>
+					<a class="button" href="./M.html" style="view-transition-name: nav-3;">Mobile</a>
+				</nav>
+			</main>
+			<p></p>
+			<tab-container id='Tabs'>
+				<input type="radio" id="tabToggle01" name="tabs" value="1" checked>
+				<label for="tabToggle01">HD-DVD</label>
+				<tab-content><p>[5 Titles]</p><p>
+					Exotic Saltwater Aquarium&nbsp;<sup>[HD-DVD]</sup></br>
+					Getaway&nbsp;<sup>[HD-DVD]</sup></br>
+					I Now Pronounce You Chuck And Larry&nbsp;<sup>[HD-DVD]</sup></br>
+					Reaping&nbsp;<sup>[HD-DVD]</sup></br>
+					Shooter&nbsp;<sup>[HD-DVD]</sup></br>
+				</p></tab-content>
+			</tab-container>
+	</body>
+</html>

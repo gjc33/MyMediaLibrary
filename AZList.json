@@ -2,7 +2,8 @@
     "Films":  [
                   {
                       "Categories":  "Blu-Ray",
-                      "Title":  "100 Rifles"
+                      "Title":  "100 Rifles",
+                      "Updated":  "30 Sep 2026 @ 15:06:56"
                   },
                   {
                       "Categories":  "DVD",
@@ -161,6 +162,30 @@
                       "Title":  "39 Steps"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "3rd Rock From The Sun - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "3rd Rock From The Sun - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "3rd Rock From The Sun - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "3rd Rock From The Sun - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "3rd Rock From The Sun - S05"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "3rd Rock From The Sun - S06"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "4 3 2 1"
                   },
@@ -307,6 +332,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Act Of Valor"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Ad Astra"
                   },
                   {
                       "Categories":  "Music",
@@ -1109,6 +1138,10 @@
                       "Title":  "A-Team - S05"
                   },
                   {
+                      "Categories":  "3D, 4K, Blu-Ray",
+                      "Title":  "Atlas"
+                  },
+                  {
                       "Categories":  "4K, Blu-Ray",
                       "Title":  "Atomic Blonde"
                   },
@@ -1291,6 +1324,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Bad Company"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Bad Guys"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -1585,7 +1622,7 @@
                       "Title":  "Behind Enemy Lines"
                   },
                   {
-                      "Categories":  "DVD",
+                      "Categories":  "Blu-Ray",
                       "Title":  "Belstone Fox"
                   },
                   {
@@ -1799,6 +1836,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Bill Baileys Remarkable Guide To The Orchestra"
+                  },
+                  {
+                      "Categories":  "Music",
+                      "Title":  "Billie Eilish - Hit Me Hard And Soft"
                   },
                   {
                       "Categories":  "DVD",
@@ -2301,6 +2342,10 @@
                       "Title":  "Brawl In Cell Block 99"
                   },
                   {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Brazil"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Break Up"
                   },
@@ -2555,6 +2600,34 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Caddyshack"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Cagney And Lacey - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Cagney And Lacey - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Cagney And Lacey - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Cagney And Lacey - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Cagney And Lacey - S05"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Cagney And Lacey - S06"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Cagney And Lacey - S07"
                   },
                   {
                       "Categories":  "DVD",
@@ -3009,6 +3082,30 @@
                       "Title":  "China Syndrome"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Chips - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Chips - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Chips - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Chips - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Chips - S05"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Chips - S06"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Chitty Chitty Bang Bang"
                   },
@@ -3019,6 +3116,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Chocolate"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Chopping Mall"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -3149,7 +3250,7 @@
                       "Title":  "Close Encounters Of The Third Kind"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Cloud Atlas"
                   },
                   {
@@ -3277,7 +3378,7 @@
                       "Title":  "Confidential Informant"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "4K, Blu-Ray",
                       "Title":  "Conjuring"
                   },
                   {
@@ -3825,6 +3926,10 @@
                       "Title":  "Days Of Thunder"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Dead Before Dawn"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Dead Man Running"
                   },
@@ -3885,6 +3990,14 @@
                       "Title":  "Death Becomes Her"
                   },
                   {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Death Of A Unicorn"
+                  },
+                  {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Death On The Nile"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Death Race"
                   },
@@ -3941,6 +4054,10 @@
                       "Title":  "Debt"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Deck The Halls"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Deep Blue Sea"
                   },
@@ -3955,6 +4072,10 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Deep Ocean Experience"
+                  },
+                  {
+                      "Categories":  "Music",
+                      "Title":  "Deep Purple - From the Setting Sun"
                   },
                   {
                       "Categories":  "4K, Blu-Ray",
@@ -4063,6 +4184,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Desperate Measures"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Desperate Romantics - S01"
                   },
                   {
                       "Categories":  "DVD",
@@ -4237,6 +4362,10 @@
                       "Title":  "Dodgeball"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Dog Stars"
+                  },
+                  {
                       "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Dolittle"
                   },
@@ -4305,6 +4434,10 @@
                       "Title":  "Dr Dolittle 3"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Dracula"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Dracula Untold"
                   },
@@ -4318,11 +4451,11 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "DragonQuest"
+                      "Title":  "Dragonquest"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Dragonquest"
+                      "Title":  "DragonQuest"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -4351,6 +4484,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Dresden Sun"
+                  },
+                  {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Dressed To Kill"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -4729,6 +4866,22 @@
                       "Title":  "Equalizer"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Equalizer - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Equalizer - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Equalizer - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Equalizer - S04"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Equalizer 2"
                   },
@@ -4985,6 +5138,30 @@
                       "Title":  "Fall Guy"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Fall Guy - S00"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Fall Guy - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Fall Guy - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Fall Guy - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Fall Guy - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Fall Guy - S05"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Fallen"
                   },
@@ -5027,6 +5204,10 @@
                   {
                       "Categories":  "4K",
                       "Title":  "Fantastic Four"
+                  },
+                  {
+                      "Categories":  "3D,4K, Blu-Ray",
+                      "Title":  "Fantastic Four - First Steps"
                   },
                   {
                       "Categories":  "",
@@ -5169,7 +5350,7 @@
                       "Title":  "Festive Fireplace - S01"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Fifth Element"
                   },
                   {
@@ -5299,6 +5480,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Flatliners"
+                  },
+                  {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Flesh For Frankenstein"
                   },
                   {
                       "Categories":  "DVD",
@@ -5889,6 +6074,10 @@
                       "Title":  "Gladiator"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Glee"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Glimmer Man"
                   },
@@ -6389,6 +6578,18 @@
                       "Title":  "Hard Ticket To Hawaii"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Hardcastle And McCormick - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Hardcastle And McCormick - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Hardcastle And McCormick - S03"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Hardcore"
                   },
@@ -6605,6 +6806,26 @@
                       "Title":  "Highest Stakes"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Highway To Heaven - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Highway To Heaven - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Highway To Heaven - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Highway To Heaven - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Highway To Heaven - S05"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Hills Have Eyes"
                   },
@@ -6619,6 +6840,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Hitch"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Hitchhikers Guide To The Galaxy"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -7121,8 +7346,16 @@
                       "Title":  "IMAX - A Beautiful Planet"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "IMAX - Arabia"
+                  },
+                  {
                       "Categories":  "4K, Blu-Ray",
                       "Title":  "IMAX - Blue Angels"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "IMAX - Born To Be Wild"
                   },
                   {
                       "Categories":  "3D",
@@ -7145,12 +7378,24 @@
                       "Title":  "IMAX - Flight Of The Butterflies"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "IMAX - Galapagos"
+                  },
+                  {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "IMAX - Grand Canyon Adventure - River At Risk"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "IMAX - Hubble"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "IMAX - Into The Deep"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "IMAX - Island Of Lemurs Madagascar"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
@@ -7171,6 +7416,14 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "IMAX - Space Junk"
+                  },
+                  {
+                      "Categories":  "3D, 4K",
+                      "Title":  "IMAX - Space Station"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "IMAX - To The Arctic"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
@@ -7233,7 +7486,7 @@
                       "Title":  "In The Valley Of Elah"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "In Time"
                   },
                   {
@@ -7319,6 +7572,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Innerspace"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Inseminoid"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -7413,7 +7670,7 @@
                       "Title":  "I-Robot"
                   },
                   {
-                      "Categories":  "DVD",
+                      "Categories":  "4K, Blu-Ray, DVD",
                       "Title":  "Iron Eagle"
                   },
                   {
@@ -8393,6 +8650,10 @@
                       "Title":  "Langoliers - S01"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Lap Dance"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Lassie"
                   },
@@ -8582,6 +8843,22 @@
                   },
                   {
                       "Categories":  "Series",
+                      "Title":  "Lexx - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Lexx - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Lexx - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Lexx - S04"
+                  },
+                  {
+                      "Categories":  "Series",
                       "Title":  "Liar - S01"
                   },
                   {
@@ -8715,6 +8992,34 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Little Shop Of Horrors"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Littlest Hobo - S00"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Littlest Hobo - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Littlest Hobo - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Littlest Hobo - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Littlest Hobo - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Littlest Hobo - S05"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Littlest Hobo - S06"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -9046,6 +9351,10 @@
                   },
                   {
                       "Categories":  "Blu-Ray",
+                      "Title":  "Mai-Chans Daily Life"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
                       "Title":  "Maid In Manhattan"
                   },
                   {
@@ -9241,6 +9550,10 @@
                       "Title":  "Masters Of Horror - S02"
                   },
                   {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Masters Of The Universe"
+                  },
+                  {
                       "Categories":  "Series",
                       "Title":  "Match Of The Day - S01"
                   },
@@ -9374,11 +9687,11 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Megamind"
+                      "Title":  "MegaMind"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "MegaMind"
+                      "Title":  "Megamind"
                   },
                   {
                       "Categories":  "Music",
@@ -9521,6 +9834,10 @@
                       "Title":  "Mighty Ducks 3"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Migration"
+                  },
+                  {
                       "Categories":  "Series",
                       "Title":  "Mike And Molly - S01"
                   },
@@ -9589,7 +9906,7 @@
                       "Title":  "Minions [4] - Despicable Me 3"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Minions [5] - Rise Of Gru"
                   },
                   {
@@ -9637,6 +9954,30 @@
                       "Title":  "Mission Impossible"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Mission Impossible - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Mission Impossible - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Mission Impossible - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Mission Impossible - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Mission Impossible - S05"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Mission Impossible - S06"
+                  },
+                  {
                       "Categories":  "4K, Blu-Ray",
                       "Title":  "Mission Impossible 2"
                   },
@@ -9653,7 +9994,7 @@
                       "Title":  "Mission Impossible 5 - Rogue Nation"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Mission Impossible 6 - Fallout"
                   },
                   {
@@ -9754,11 +10095,11 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Monsters Vs Aliens"
+                      "Title":  "Monsters vs Aliens"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Monsters vs Aliens"
+                      "Title":  "Monsters Vs Aliens"
                   },
                   {
                       "Categories":  "Series",
@@ -9801,6 +10142,26 @@
                       "Title":  "Moonfall"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Moonlighting - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Moonlighting - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Moonlighting - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Moonlighting - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Moonlighting - S05"
+                  },
+                  {
                       "Categories":  "4K, Blu-Ray",
                       "Title":  "Morbius"
                   },
@@ -9831,6 +10192,10 @@
                   {
                       "Categories":  "4K, Blu-Ray",
                       "Title":  "Mortal Kombat"
+                  },
+                  {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Mortal Kombat 2"
                   },
                   {
                       "Categories":  "DVD",
@@ -10035,6 +10400,10 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Nature 3D"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Naughty Girl"
                   },
                   {
                       "Categories":  "Series",
@@ -10445,6 +10814,10 @@
                       "Title":  "Odds"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Odyssey"
+                  },
+                  {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Official 2010 FIFA World Cup Film"
                   },
@@ -10733,6 +11106,10 @@
                       "Title":  "Paranormal Activity"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Paranormal Activity - The Ghost Dimension"
+                  },
+                  {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Paranormal Xperience"
                   },
@@ -10871,6 +11248,10 @@
                   {
                       "Categories":  "Music",
                       "Title":  "Pet Shop Boys - Smash - The Videos 1985 - 2020"
+                  },
+                  {
+                      "Categories":  "Music",
+                      "Title":  "Peter Gabriel - New Blood"
                   },
                   {
                       "Categories":  "DVD",
@@ -11141,6 +11522,22 @@
                       "Title":  "Presumed Innocent"
                   },
                   {
+                      "Categories":  "Series",
+                      "Title":  "Pretender - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Pretender - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Pretender - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Pretender - S04"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Pretty Baby"
                   },
@@ -11307,6 +11704,26 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Quadrophenia"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Quantum Leap - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Quantum Leap - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Quantum Leap - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Quantum Leap - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Quantum Leap - S05"
                   },
                   {
                       "Categories":  "DVD",
@@ -11543,10 +11960,6 @@
                   {
                       "Categories":  "Music",
                       "Title":  "Red Hot Chili Peppers - Off The Map"
-                  },
-                  {
-                      "Categories":  "Music",
-                      "Title":  "Red Hot Chili Peppers - Greatest Videos"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -11973,6 +12386,10 @@
                       "Title":  "Runner [2026]"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Runner [Alan]"
+                  },
+                  {
                       "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Running Man"
                   },
@@ -12155,6 +12572,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Saturday Night Fever"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Saturn 3"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -13169,12 +13590,8 @@
                       "Title":  "Speckles - The Tarbosaurus"
                   },
                   {
-                      "Categories":  "4K, DVD",
+                      "Categories":  "4K, Blu-Ray",
                       "Title":  "Speed"
-                  },
-                  {
-                      "Categories":  "Blu-Ray",
-                      "Title":  "Speed - 1080p.mp4"
                   },
                   {
                       "Categories":  "DVD",
@@ -13205,6 +13622,10 @@
                       "Title":  "Spider-Man [10] - Across The Spider-Verse"
                   },
                   {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Spider-Man [11] - Brand New Day"
+                  },
+                  {
                       "Categories":  "3D",
                       "Title":  "Spider-Man [7] - Into The Spider-Verse"
                   },
@@ -13219,6 +13640,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Spider-Man 3"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Spider-Noir - S01"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
@@ -14014,6 +14439,10 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
+                      "Title":  "Teenage Mutant Ninja Turtles - Mutant Mayhem"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Teenage Mutant Ninja Turtles - Out Of The Shadows"
                   },
                   {
@@ -14077,15 +14506,15 @@
                       "Title":  "Terminator 3 - Rise Of The Machines"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Terrifier [1]"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Terrifier [2]"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Terrifier [3]"
                   },
                   {
@@ -14141,7 +14570,7 @@
                       "Title":  "Theyre Playing With Fire"
                   },
                   {
-                      "Categories":  "DVD",
+                      "Categories":  "4K, Blu-Ray",
                       "Title":  "Thing"
                   },
                   {
@@ -14437,7 +14866,7 @@
                       "Title":  "Toys"
                   },
                   {
-                      "Categories":  "DVD",
+                      "Categories":  "4K, DVD",
                       "Title":  "Trading Places"
                   },
                   {
@@ -14729,7 +15158,7 @@
                       "Title":  "Twilight Zone [1985] - S03"
                   },
                   {
-                      "Categories":  "Blu-Ray, DVD",
+                      "Categories":  "Blu-Ray",
                       "Title":  "Twilight Zone The Movie"
                   },
                   {
@@ -14965,7 +15394,7 @@
                       "Title":  "V - S01"
                   },
                   {
-                      "Categories":  "3D, Blu-Ray, DVD",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "V For Vendetta"
                   },
                   {
@@ -14991,6 +15420,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Valiant"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Vamperifica"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -15039,6 +15472,10 @@
                   {
                       "Categories":  "Unrecognised",
                       "Title":  "Various Artists - Now 2008"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Vault"
                   },
                   {
                       "Categories":  "DVD",
@@ -15091,6 +15528,26 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Volcano"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Voyage To The Bottom Of The Sea"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Voyage To The Bottom Of The Sea - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Voyage To The Bottom Of The Sea - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Voyage To The Bottom Of The Sea - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Voyage To The Bottom Of The Sea - S04"
                   },
                   {
                       "Categories":  "Series",
@@ -15493,6 +15950,10 @@
                       "Title":  "Wizard Of Oz"
                   },
                   {
+                      "Categories":  "4K, Blu-Ray",
+                      "Title":  "Wizard Of The Kremlin"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Wolf Of Wall Street"
                   },
@@ -15515,6 +15976,22 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Wonder Woman"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Wonder Woman - S00"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Wonder Woman - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Wonder Woman - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Wonder Woman - S03"
                   },
                   {
                       "Categories":  "3D, 4K, Blu-Ray",
@@ -15714,6 +16191,10 @@
                   },
                   {
                       "Categories":  "Blu-Ray",
+                      "Title":  "Xtro"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
                       "Title":  "xXx"
                   },
                   {
@@ -15759,6 +16240,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Youve Got Mail"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Zambezia"
                   },
                   {
                       "Categories":  "Blu-Ray",

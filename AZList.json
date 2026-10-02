@@ -3,7 +3,7 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "100 Rifles",
-                      "Updated":  "30 Sep 2026 @ 15:06:56"
+                      "Updated":  "01 Oct 2026 @ 22:09:41"
                   },
                   {
                       "Categories":  "DVD",
@@ -1010,7 +1010,7 @@
                       "Title":  "Ant-Man And The Wasp"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Ant-Man And The Wasp - Quantumania"
                   },
                   {
@@ -3082,6 +3082,10 @@
                       "Title":  "China Syndrome"
                   },
                   {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Chinese Zodiac"
+                  },
+                  {
                       "Categories":  "Series",
                       "Title":  "Chips - S01"
                   },
@@ -3596,6 +3600,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Cry Wolf"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Crystal Skulls"
                   },
                   {
                       "Categories":  "Series",
@@ -4451,11 +4459,11 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Dragonquest"
+                      "Title":  "DragonQuest"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "DragonQuest"
+                      "Title":  "Dragonquest"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -5206,7 +5214,7 @@
                       "Title":  "Fantastic Four"
                   },
                   {
-                      "Categories":  "3D,4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Fantastic Four - First Steps"
                   },
                   {
@@ -6778,6 +6786,10 @@
                       "Title":  "Hidden Figures"
                   },
                   {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Hidden Worlds - Caves Of The Dead"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Hide And Seek"
                   },
@@ -7346,7 +7358,7 @@
                       "Title":  "IMAX - A Beautiful Planet"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "IMAX - Arabia"
                   },
                   {
@@ -7379,6 +7391,10 @@
                   },
                   {
                       "Categories":  "3D",
+                      "Title":  "IMAX - Flight Of Thе Моnаrсh Вuttеrflу"
+                  },
+                  {
+                      "Categories":  "3D",
                       "Title":  "IMAX - Galapagos"
                   },
                   {
@@ -7408,6 +7424,10 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "IMAX - Ocean Wonderland"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "IMAX - Rescue"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
@@ -7670,7 +7690,7 @@
                       "Title":  "I-Robot"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray, DVD",
+                      "Categories":  "4K, Blu-Ray",
                       "Title":  "Iron Eagle"
                   },
                   {
@@ -8190,6 +8210,10 @@
                       "Title":  "Jumanji 1 - Welcome To The Jungle"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Jumanji 2 - Next Level"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Jumanji 2 - The Next Level"
                   },
@@ -8214,7 +8238,7 @@
                       "Title":  "Jungle Book [Live]"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Jungle Cruise"
                   },
                   {
@@ -8464,6 +8488,10 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "King Arthur - Legend Of The Sword"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "King Kelly"
                   },
                   {
                       "Categories":  "DVD",
@@ -9299,6 +9327,10 @@
                   },
                   {
                       "Categories":  "3D",
+                      "Title":  "Mafia - Survival Game"
+                  },
+                  {
+                      "Categories":  "3D",
                       "Title":  "Magnificent Desolation - Walking On The Moon"
                   },
                   {
@@ -10095,11 +10127,11 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Monsters vs Aliens"
+                      "Title":  "Monsters Vs Aliens"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Monsters Vs Aliens"
+                      "Title":  "Monsters vs Aliens"
                   },
                   {
                       "Categories":  "Series",
@@ -10626,7 +10658,7 @@
                       "Title":  "No Offence - S03"
                   },
                   {
-                      "Categories":  "DVD",
+                      "Categories":  "3D, Blu-Ray, DVD",
                       "Title":  "Noah"
                   },
                   {
@@ -10748,6 +10780,10 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Nut Job"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Nut Job 2 - Nutty By Nature"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
@@ -11010,12 +11046,20 @@
                       "Title":  "Out Of Time"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Outcast"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Outland"
                   },
                   {
                       "Categories":  "DVD",
                       "Title":  "Outlaw"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Over The Edge"
                   },
                   {
                       "Categories":  "DVD",
@@ -11374,7 +11418,7 @@
                       "Title":  "Planes"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Planes 2 - Fire And Rescue"
                   },
                   {
@@ -11502,7 +11546,7 @@
                       "Title":  "Predators"
                   },
                   {
-                      "Categories":  "DVD",
+                      "Categories":  "3D, DVD",
                       "Title":  "Predestination"
                   },
                   {
@@ -11782,7 +11826,7 @@
                       "Title":  "Rain Man"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Ralph Breaks The Internet"
                   },
                   {
@@ -12906,6 +12950,10 @@
                       "Title":  "Shakira - Oral Fixation Tour"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Shallow Ground"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Shallow Hal"
                   },
@@ -13284,6 +13332,10 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Smallfoot"
+                  },
+                  {
+                      "Categories":  "Music",
+                      "Title":  "Smashing Pumpkins - Oceania Live In NYC"
                   },
                   {
                       "Categories":  "4K",
@@ -14594,7 +14646,7 @@
                       "Title":  "Thor - Dark World"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Thor - Love And Thunder"
                   },
                   {
@@ -14638,7 +14690,7 @@
                       "Title":  "Thunderbirds - S02"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Thunderbolts"
                   },
                   {
@@ -14836,6 +14888,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Toxic Avenger"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Toxic Zombies"
                   },
                   {
                       "Categories":  "DVD",

@@ -3,7 +3,7 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "100 Rifles",
-                      "Updated":  "14 Oct 2026 @ 20:28:51"
+                      "Updated":  "20 Oct 2026 @ 10:30:18"
                   },
                   {
                       "Categories":  "DVD",
@@ -148,6 +148,14 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "28 Weeks Later"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "3 AM"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "3 AM Part 2"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -600,6 +608,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Alpha"
+                  },
+                  {
+                      "Categories":  "DVD",
+                      "Title":  "Altered Species"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -1186,6 +1198,10 @@
                       "Title":  "A-Team - S05"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Atelophobia"
+                  },
+                  {
                       "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Atlas"
                   },
@@ -1208,6 +1224,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Attack The Block"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Attraction"
                   },
                   {
                       "Categories":  "Series",
@@ -1490,7 +1510,7 @@
                       "Title":  "Banshee - S04"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Banshee Chapter"
                   },
                   {
@@ -1676,6 +1696,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Behind Enemy Lines"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Behind The Walls"
                   },
                   {
                       "Categories":  "DVD",
@@ -1898,7 +1922,7 @@
                       "Title":  "Big Brothers Big DVD"
                   },
                   {
-                      "Categories":  "3D",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Big Bugs"
                   },
                   {
@@ -3050,6 +3074,10 @@
                       "Title":  "Category 7 - The End Of The World - S01"
                   },
                   {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Cathedrals Of Culture"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Cats And Dogs"
                   },
@@ -3196,6 +3224,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Children Of The Corn"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "Childs Eye"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -3480,6 +3512,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Colombiana"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Colosseo"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -5262,6 +5298,10 @@
                       "Title":  "Expendables 4"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Experience Nature"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Experiment"
                   },
@@ -5486,11 +5526,11 @@
                       "Title":  "Fast And Furious 8"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Fast And Furious 9"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Fast And Furious X"
                   },
                   {
@@ -5682,7 +5722,7 @@
                       "Title":  "Flatliners"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Flesh For Frankenstein"
                   },
                   {
@@ -5862,12 +5902,24 @@
                       "Title":  "Free Willy"
                   },
                   {
+                      "Categories":  "DVD",
+                      "Title":  "French Connection"
+                  },
+                  {
+                      "Categories":  "DVD",
+                      "Title":  "French Connection 2"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Fresh"
                   },
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Frida"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "Friday The 13th Part III"
                   },
                   {
                       "Categories":  "DVD",
@@ -6294,7 +6346,7 @@
                       "Title":  "Gladiator"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Glee"
                   },
                   {
@@ -6546,6 +6598,10 @@
                       "Title":  "Grey"
                   },
                   {
+                      "Categories":  "DVD",
+                      "Title":  "Greyfriars Bobby"
+                  },
+                  {
                       "Categories":  "Series",
                       "Title":  "Greys Anatomy - S01"
                   },
@@ -6770,7 +6826,7 @@
                       "Title":  "Hannibal - S02"
                   },
                   {
-                      "Categories":  "DVD",
+                      "Categories":  "Blu-Ray, DVD",
                       "Title":  "Hans Christian Andersen"
                   },
                   {
@@ -6884,6 +6940,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Haunting"
+                  },
+                  {
+                      "Categories":  "Blu-Ray",
+                      "Title":  "Haunting In Salem"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -7574,6 +7634,10 @@
                       "Title":  "I Spit On Your Grave"
                   },
                   {
+                      "Categories":  "Unrecognised",
+                      "Title":  "Ibiza"
+                  },
+                  {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Ice Age - A Mammoth Christmas"
                   },
@@ -7776,6 +7840,10 @@
                   {
                       "Categories":  "3D",
                       "Title":  "IMAX - Wingsuit Warrior"
+                  },
+                  {
+                      "Categories":  "4K",
+                      "Title":  "IMAX - Wonders Of The Arctic"
                   },
                   {
                       "Categories":  "Series",
@@ -8782,6 +8850,10 @@
                       "Title":  "Kill Me Three Times"
                   },
                   {
+                      "Categories":  "DVD",
+                      "Title":  "Kill Switch"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Killer Elite"
                   },
@@ -8859,7 +8931,7 @@
                   },
                   {
                       "Categories":  "Series",
-                      "Title":  "Kingdom Of Plants 3D - S01"
+                      "Title":  "Kingdom Of Plants - S01"
                   },
                   {
                       "Categories":  "4K, Blu-Ray",
@@ -8966,7 +9038,7 @@
                       "Title":  "Kung Fu Panda 3"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Kung Fu Panda 4"
                   },
                   {
@@ -9240,6 +9312,10 @@
                   {
                       "Categories":  "Series",
                       "Title":  "Lexx - S04"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "LG 2012 3D Contents"
                   },
                   {
                       "Categories":  "Series",
@@ -9530,6 +9606,10 @@
                       "Title":  "Lorax"
                   },
                   {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Lord Of The Dance"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Lord Of The Rings - Fellowship Of The Ring"
                   },
@@ -9780,6 +9860,14 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Malibu Express"
+                  },
+                  {
+                      "Categories":  "DVD",
+                      "Title":  "Malice"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "Mallorca"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -10111,11 +10199,11 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Megamind"
+                      "Title":  "MegaMind"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "MegaMind"
+                      "Title":  "Megamind"
                   },
                   {
                       "Categories":  "Music",
@@ -10274,7 +10362,7 @@
                       "Title":  "Mighty Ducks 3"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Migration"
                   },
                   {
@@ -10368,6 +10456,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Minority Report"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "Minuscule - Valley Of The Lost Ants"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -10555,11 +10647,11 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Monsters vs Aliens"
+                      "Title":  "Monsters Vs Aliens"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
-                      "Title":  "Monsters Vs Aliens"
+                      "Title":  "Monsters vs Aliens"
                   },
                   {
                       "Categories":  "Series",
@@ -11230,6 +11322,10 @@
                       "Title":  "Nutcracker - Untold Story"
                   },
                   {
+                      "Categories":  "3D, Blu-Ray",
+                      "Title":  "Nutcracker And The Four Realms"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Nutty Professor"
                   },
@@ -11614,6 +11710,10 @@
                       "Title":  "Paranormal Activity"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Paranormal Activity - Ghost Dimension"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Paranormal Activity - The Ghost Dimension"
                   },
@@ -11770,7 +11870,7 @@
                       "Title":  "Peter Rabbit"
                   },
                   {
-                      "Categories":  "Blu-Ray, DVD",
+                      "Categories":  "3D, Blu-Ray, DVD",
                       "Title":  "Petes Dragon"
                   },
                   {
@@ -12535,6 +12635,10 @@
                   },
                   {
                       "Categories":  "DVD",
+                      "Title":  "Repli-Kate"
+                  },
+                  {
+                      "Categories":  "DVD",
                       "Title":  "Repo Men"
                   },
                   {
@@ -13010,6 +13114,10 @@
                       "Title":  "Safari 3D - S01"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Safari Lexikon"
+                  },
+                  {
                       "Categories":  "Blu-Ray",
                       "Title":  "Safe"
                   },
@@ -13044,6 +13152,10 @@
                   {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Salyut-7"
+                  },
+                  {
+                      "Categories":  "Unrecognised",
+                      "Title":  "Samsung 3D TV"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
@@ -13326,6 +13438,10 @@
                       "Title":  "Seasoning House"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Second Sight"
+                  },
+                  {
                       "Categories":  "DVD",
                       "Title":  "Seconds Apart"
                   },
@@ -13391,6 +13507,10 @@
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
+                      "Title":  "September Storm"
+                  },
+                  {
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Serengeti"
                   },
                   {
@@ -13422,7 +13542,7 @@
                       "Title":  "Seven Snipers"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Seventh Son"
                   },
                   {
@@ -13840,6 +13960,30 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Sliding Doors"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Slow Horses - S01"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Slow Horses - S02"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Slow Horses - S03"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Slow Horses - S04"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Slow Horses - S05"
+                  },
+                  {
+                      "Categories":  "Series",
+                      "Title":  "Slow Horses - S06"
                   },
                   {
                       "Categories":  "Blu-Ray",
@@ -14930,7 +15074,7 @@
                       "Title":  "Tad The Lost Explorer"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Tad The Lost Explorer - Secret Of King Midas"
                   },
                   {
@@ -15342,6 +15486,10 @@
                       "Title":  "Titanic"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "Titanic 100 Years"
+                  },
+                  {
                       "Categories":  "Unrecognised",
                       "Title":  "TLC - Artist Collection"
                   },
@@ -15650,7 +15798,7 @@
                       "Title":  "Trolls - World Tour"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Trolls Band Together"
                   },
                   {
@@ -15756,6 +15904,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Turbulence"
+                  },
+                  {
+                      "Categories":  "DVD",
+                      "Title":  "Turn It Up"
                   },
                   {
                       "Categories":  "3D",
@@ -16566,7 +16718,7 @@
                       "Title":  "Whole Ten Yards"
                   },
                   {
-                      "Categories":  "Blu-Ray",
+                      "Categories":  "3D, Blu-Ray",
                       "Title":  "Wicked"
                   },
                   {
@@ -16590,7 +16742,7 @@
                       "Title":  "Wild Child"
                   },
                   {
-                      "Categories":  "4K, Blu-Ray",
+                      "Categories":  "3D, 4K, Blu-Ray",
                       "Title":  "Wild Robot"
                   },
                   {
@@ -16704,6 +16856,10 @@
                   {
                       "Categories":  "DVD",
                       "Title":  "Wonderful Life"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "Wonderful World"
                   },
                   {
                       "Categories":  "3D, Blu-Ray",
@@ -16942,6 +17098,10 @@
                       "Title":  "Yogi Bear"
                   },
                   {
+                      "Categories":  "3D",
+                      "Title":  "You Planet - An Exploration"
+                  },
+                  {
                       "Categories":  "3D, Blu-Ray",
                       "Title":  "Young And Prodigious T S Spivet"
                   },
@@ -16976,6 +17136,10 @@
                   {
                       "Categories":  "Blu-Ray",
                       "Title":  "Zero Dark Thirty"
+                  },
+                  {
+                      "Categories":  "3D",
+                      "Title":  "Zombie Fever"
                   },
                   {
                       "Categories":  "Blu-Ray",
